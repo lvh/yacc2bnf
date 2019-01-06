@@ -1,0 +1,6 @@
+name: yacc2bnf
+version: 0.1.0
+
+dependencies:
+  ebnf:
+    github: jrester/EBNF.cr
